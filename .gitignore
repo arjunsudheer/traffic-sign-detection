@@ -1,0 +1,4 @@
+# ignore all .DS_Store files
+.DS_Store
+German_Traffic_Signs_Image_Classification/.DS_Store
+German_Traffic_Signs_Image_Classification/Train/.DS_Store

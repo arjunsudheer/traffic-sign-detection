@@ -2,3 +2,6 @@
 .DS_Store
 German_Traffic_Signs_Image_Classification/.DS_Store
 German_Traffic_Signs_Image_Classification/Train/.DS_Store
+German_Traffic_Signs_Object_Detection/.DS_Store
+German_Traffic_Signs_Object_Detection/GTSDB.v4i.yolob8/train/.DS_Store
+German_Traffic_Signs_Object_Detection/GTSDB.v4i.yolob8/valid/.DS_Store

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 43
+names: ['10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '40', '41', '42', '6', '9', 'speed limit 100 (prohibitory)', 'speed limit 120 (prohibitory)', 'speed limit 20 (prohibitory)', 'speed limit 30 (prohibitory)', 'speed limit 50 (prohibitory)', 'speed limit 60 (prohibitory)', 'speed limit 70 (prohibitory)', 'speed limit 80 (prohibitory)']
+
+roboflow:
+  workspace: vrobot8182-163-com
+  project: gtsdb-nzh3w
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/vrobot8182-163-com/gtsdb-nzh3w/dataset/4
